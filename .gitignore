@@ -1,0 +1,10 @@
+# Ignore dataset
+creditcard.csv
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
